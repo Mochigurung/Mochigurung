@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Richma Gurung</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Computer Science student from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on [Eyemate]
