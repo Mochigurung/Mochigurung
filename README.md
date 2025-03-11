@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on [Eyemate]
-- 🌱 I’m currently learning **Python , Next.js**
+- 🌱 I’m currently learning **Python **
 
 - 📫 How to reach me **reechmagrg@gmail.com**
 
